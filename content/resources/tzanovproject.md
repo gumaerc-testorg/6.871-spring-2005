@@ -2,8 +2,13 @@
 content_type: resource
 description: A project that takes the description of an algorithmic problem and construct
   a solution (algorithm) for it.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-871-knowledge-based-applications-systems-spring-2005/f3474e238672c848e8cd9259caeddf6d_tzanovproject.pdf
+file: /media/courses/6-871-knowledge-based-applications-systems-spring-2005/f3474e238672c848e8cd9259caeddf6d_tzanovproject.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: tzanovproject.pdf
 uid: f3474e23-8672-c848-e8cd-9259caeddf6d

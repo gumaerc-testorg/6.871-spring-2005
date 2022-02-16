@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-871-knowledge-based-applications-systems-spring-2005/bbe7a93a8a661ead48cca443b5ef7479_project_proposal.pdf
+file: /media/courses/6-871-knowledge-based-applications-systems-spring-2005/bbe7a93a8a661ead48cca443b5ef7479_project_proposal.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: project_proposal.pdf
 uid: bbe7a93a-8a66-1ead-48cc-a443b5ef7479

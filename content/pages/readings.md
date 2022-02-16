@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: b0d8e6f2-6aea-6b3d-4371-fcdcf72a032b
 ---
@@ -40,7 +43,7 @@ Feigenbaum, E. A. _Knowledge Engineering: The Applied Side of Artificial Intelli
 
 Newell, A. "The Knowledge Level." _Artificial Intelligence Magazine_ (Summer 1981): 1-20+.
 
-Topolski, A. S., and D. K. Reece. "Packaging Advisor_tm_: An Expert System for Rigid Plastic Food Package Design." In _Proc Innovative Applications of AI_. Edited by H. Schoor and A. Rappaport. Melo Park, CA: AAAI/MIT Press, 1989, pp. 348-357.
+Topolski, A. S., and D. K. Reece. "Packaging Advisor_{{< sup "tm" >}}_: An Expert System for Rigid Plastic Food Package Design." In _Proc Innovative Applications of AI_. Edited by H. Schoor and A. Rappaport. Melo Park, CA: AAAI/MIT Press, 1989, pp. 348-357.
 
 
 {{< tdclose >}}
