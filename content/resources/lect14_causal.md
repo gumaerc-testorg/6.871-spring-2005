@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cc9f1741-d172-acc1-e218-0e9b80e3fb4f
 resourcetype: Document
 title: lect14_causal.pdf
 uid: 4a5b7bec-8adc-4212-7fec-66b2807fcccf

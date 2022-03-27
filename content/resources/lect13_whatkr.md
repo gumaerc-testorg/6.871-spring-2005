@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cc9f1741-d172-acc1-e218-0e9b80e3fb4f
 resourcetype: Document
 title: lect13_whatkr.pdf
 uid: 121ee967-eebd-1e43-453d-13e7ab4c1422

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e8b1afa-a677-54f8-d5a7-04c61aedb8e0
 resourcetype: Other
 title: smartsweeper.jar
 uid: 306f6701-f835-94c2-3681-f2b3e08c5f56

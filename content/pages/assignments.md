@@ -38,7 +38,7 @@ smartsweeper.jar ([JAR]({{< baseurl >}}/resources/smartsweeper))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-invest-josh-kb.custom.lisp ([LISP](/courses/electrical-engineering-and-computer-science/6-871-knowledge-based-applications-systems-spring-2005/assignments/investjoshkbcustom.lisp))  
+invest-josh-kb.custom.lisp ([LISP]({{< baseurl >}}/resources/investjoshkbcustom))  
   
 Joshua Reference Manual ([PDF - 1.7 MB]({{< baseurl >}}/resources/joshua_reference))  
   

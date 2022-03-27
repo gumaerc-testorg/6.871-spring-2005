@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e8b1afa-a677-54f8-d5a7-04c61aedb8e0
 resourcetype: Document
 title: written2.pdf
 uid: 5b7e27ea-49b2-147b-4180-8007e8115dc0

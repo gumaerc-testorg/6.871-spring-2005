@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: cc9f1741-d172-acc1-e218-0e9b80e3fb4f
 resourcetype: Document
 title: lect17_constrain.pdf
 uid: 0fbd5506-73bd-649e-8ae5-33d650d00276

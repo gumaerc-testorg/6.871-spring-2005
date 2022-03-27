@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9a346cd8-7e53-baac-21ba-55e4c4157f53
 resourcetype: Document
 title: haldarrulesdb.pdf
 uid: 73b56489-0d7d-aaa1-dce9-9c7752799017

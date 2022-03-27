@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9a346cd8-7e53-baac-21ba-55e4c4157f53
 resourcetype: Document
 title: ostlerpaper.pdf
 uid: 8bc6ec4e-9ba2-74e1-1c82-30f0238a27ac

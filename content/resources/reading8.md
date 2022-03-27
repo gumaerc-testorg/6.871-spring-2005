@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4e8b1afa-a677-54f8-d5a7-04c61aedb8e0
 resourcetype: Document
 title: reading8.pdf
 uid: 3f7c9a33-5994-2ca8-ff91-862a8e8c5bfa

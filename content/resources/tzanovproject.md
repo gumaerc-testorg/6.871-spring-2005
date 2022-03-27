@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9a346cd8-7e53-baac-21ba-55e4c4157f53
 resourcetype: Document
 title: tzanovproject.pdf
 uid: f3474e23-8672-c848-e8cd-9259caeddf6d

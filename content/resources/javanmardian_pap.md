@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9a346cd8-7e53-baac-21ba-55e4c4157f53
 resourcetype: Document
 title: javanmardian_pap.pdf
 uid: ec48b59a-27c5-2ba8-60ea-1e2c74a38e08

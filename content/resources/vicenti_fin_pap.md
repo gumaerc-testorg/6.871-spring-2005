@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9a346cd8-7e53-baac-21ba-55e4c4157f53
 resourcetype: Document
 title: vicenti_fin_pap.pdf
 uid: 21c9ac0e-3603-7ae6-70d6-61edb7d6030c
