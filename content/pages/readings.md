@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: Readings provides information on assigned readings corrosponding to the
+  topics of the term.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: b0d8e6f2-6aea-6b3d-4371-fcdcf72a032b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

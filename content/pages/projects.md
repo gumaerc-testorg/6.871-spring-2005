@@ -1,20 +1,26 @@
 ---
 content_type: page
+description: Projects provides information on project materials and student's projects
+  with PDFs.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
 title: Projects
 uid: 9a346cd8-7e53-baac-21ba-55e4c4157f53
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Project Materials
 -----------------
 
-*   Project Proposal Details ([PDF]({{< baseurl >}}/resources/project_proposal))
-*   Project Cautions ([PDF]({{< baseurl >}}/resources/project_cautions))
-*   Topics from Previous Years ([PDF]({{< baseurl >}}/resources/project_topics))
-*   Project Progress Report 2 ([PDF]({{< baseurl >}}/resources/proj_report2))
-*   Project Progress Report 3 ([PDF]({{< baseurl >}}/resources/proj_report3))
+*   Project Proposal Details ({{% resource_link bbe7a93a-8a66-1ead-48cc-a443b5ef7479 "PDF" %}})
+*   Project Cautions ({{% resource_link 1da224b9-56ee-f1c8-be8b-3ddc325cd7a2 "PDF" %}})
+*   Topics from Previous Years ({{% resource_link 2bc711c9-440e-0671-cdba-3299542ab09f "PDF" %}})
+*   Project Progress Report 2 ({{% resource_link c21693d6-0add-e119-72dd-d9b4740afa47 "PDF" %}})
+*   Project Progress Report 3 ({{% resource_link 7523f283-c195-60ef-1849-a34844cd8ddf "PDF" %}})
 
 Student Projects
 ----------------
@@ -41,9 +47,9 @@ Shruti Chandrasekhar, and Ibrahim Tadros, "Constitution Builder"
 {{< tdopen >}}
 
 
-Shruti Chandrasekhar ([PDF]({{< baseurl >}}/resources/chandrase_tempap))
+Shruti Chandrasekhar ({{% resource_link 8ef2e851-7be9-97a3-f3f7-61ad832cb47c "PDF" %}})
 
-Ibrahim Tadros ([PDF]({{< baseurl >}}/resources/tadros_fin_pap))
+Ibrahim Tadros ({{% resource_link 2d64a40b-2a57-9e11-ac84-020940331d14 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -54,7 +60,7 @@ Ibrahim Tadros ([PDF]({{< baseurl >}}/resources/tadros_fin_pap))
 Ashwin Deshpande, "Inverse Laplace Transformer"
 {{< tdclose >}}
 {{< tdopen >}}
-Ashwin Deshpande ([PDF]({{< baseurl >}}/resources/ashwindeshpa_ilt))
+Ashwin Deshpande ({{% resource_link 72fb8081-b0ea-adc1-b85c-ad722f5685b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +69,7 @@ Ashwin Deshpande ([PDF]({{< baseurl >}}/resources/ashwindeshpa_ilt))
 Meshkat Farrokhzadi, "Poxpert+, the Intelligent Poker Player"
 {{< tdclose >}}
 {{< tdopen >}}
-Meshkat Farrokhzadi ([PDF]({{< baseurl >}}/resources/farrokh_fin_proj))
+Meshkat Farrokhzadi ({{% resource_link f9b791b1-c6eb-ac87-745b-09419e70ad22 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +78,7 @@ Meshkat Farrokhzadi ([PDF]({{< baseurl >}}/resources/farrokh_fin_proj))
 Rodney Graham, "Film Recommendation System"
 {{< tdclose >}}
 {{< tdopen >}}
-Rodney Graham ([PDF]({{< baseurl >}}/resources/grah_fin_prj_rep))
+Rodney Graham ({{% resource_link 0e73a348-0431-caf8-3278-8c014d962597 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +87,7 @@ Rodney Graham ([PDF]({{< baseurl >}}/resources/grah_fin_prj_rep))
 Abhra Haldar, "sEElect: An Expert System for Recommending Course VI Classes"
 {{< tdclose >}}
 {{< tdopen >}}
-Abhra Haldar ([PDF]({{< baseurl >}}/resources/haldarfin_report)), Appendix ([PDF]({{< baseurl >}}/resources/haldarrulesdb))
+Abhra Haldar ({{% resource_link 0306dff5-cc73-20ff-7f44-e016e5cb067f "PDF" %}}), Appendix ({{% resource_link 73b56489-0d7d-aaa1-dce9-9c7752799017 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +96,7 @@ Abhra Haldar ([PDF]({{< baseurl >}}/resources/haldarfin_report)), Appendix ([PDF
 Anon., "How to Score Free Drinks From Guys"
 {{< tdclose >}}
 {{< tdopen >}}
-Anon. ([PDF]({{< baseurl >}}/resources/drink_fin_pap))
+Anon. ({{% resource_link 113e010a-4e93-8c18-5d36-0e0598a73e83 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,9 +107,9 @@ Kia Javanmardian, and Felix Santiago, "A Wine and Food Pairing Recommendation Sy
 {{< tdopen >}}
 
 
-Kia Javanmardian ([PDF]({{< baseurl >}}/resources/javanmardian_pap)), Appendix ([PDF]({{< baseurl >}}/resources/jvanmardian_apd))
+Kia Javanmardian ({{% resource_link ec48b59a-27c5-2ba8-60ea-1e2c74a38e08 "PDF" %}}), Appendix ({{% resource_link d2c885da-5dfc-b267-81fb-95417723de8d "PDF" %}})
 
-Felix Santiago ([PDF]({{< baseurl >}}/resources/santiago_termpap)), Appendix ([PDF]({{< baseurl >}}/resources/santiag_kno_base))
+Felix Santiago ({{% resource_link 0c3c3634-6f30-faf7-30db-1508baa669eb "PDF" %}}), Appendix ({{% resource_link d40c151e-0eeb-41c9-b45f-3a9459f9b6b3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -114,7 +120,7 @@ Felix Santiago ([PDF]({{< baseurl >}}/resources/santiago_termpap)), Appendix ([P
 Scott Ostler, "The Art and Practice of Poker Simulation"
 {{< tdclose >}}
 {{< tdopen >}}
-Scott Ostler ([PDF]({{< baseurl >}}/resources/ostlerpaper))
+Scott Ostler ({{% resource_link 8bc6ec4e-9ba2-74e1-1c82-30f0238a27ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +129,7 @@ Scott Ostler ([PDF]({{< baseurl >}}/resources/ostlerpaper))
 Anon., "Transit Advisor"
 {{< tdclose >}}
 {{< tdopen >}}
-Anon. ([PDF]({{< baseurl >}}/resources/trasit_report))
+Anon. ({{% resource_link 3ae092c9-a2a1-db5f-c0ce-2bb99441176f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,9 +140,9 @@ Edgar J. Terrero, and James Tolbert, II, "Groove-X"
 {{< tdopen >}}
 
 
-Edgar J. Terrero ([PDF]({{< baseurl >}}/resources/terrero_term_pap))
+Edgar J. Terrero ({{% resource_link a177e1e9-a715-0b97-9131-6bb19b292557 "PDF" %}})
 
-James Tolbert, II ([PDF]({{< baseurl >}}/resources/tolbert_termpap))
+James Tolbert, II ({{% resource_link d6988019-0aa1-3ee1-89bc-16cd0dc3b696 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -147,7 +153,7 @@ James Tolbert, II ([PDF]({{< baseurl >}}/resources/tolbert_termpap))
 Timur Tokmouline, "Web Design Assistant System"
 {{< tdclose >}}
 {{< tdopen >}}
-Timur Tokmouline ([PDF]({{< baseurl >}}/resources/tokmo_webdes_ast))
+Timur Tokmouline ({{% resource_link 2cdd42f9-201e-d3ca-5ea5-5414416513ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +162,7 @@ Timur Tokmouline ([PDF]({{< baseurl >}}/resources/tokmo_webdes_ast))
 Velin K Tzanov, "Algorithmic Problem Solver"
 {{< tdclose >}}
 {{< tdopen >}}
-Velin K Tzanov ([PDF]({{< baseurl >}}/resources/tzanovproject))
+Velin K Tzanov ({{% resource_link f3474e23-8672-c848-e8cd-9259caeddf6d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +171,7 @@ Velin K Tzanov ([PDF]({{< baseurl >}}/resources/tzanovproject))
 Jasper Vicenti, "A Knowledge-Based Computer Purchasing Advisor" 
 {{< tdclose >}}
 {{< tdopen >}}
-Jasper Vicenti ([PDF]({{< baseurl >}}/resources/vicenti_fin_pap)), Appendix ([PDF]({{< baseurl >}}/resources/vicentiappendix)) 
+Jasper Vicenti ({{% resource_link 21c9ac0e-3603-7ae6-70d6-61edb7d6030c "PDF" %}}), Appendix ({{% resource_link 834dab81-cd5b-995a-b863-87368ad19cc7 "PDF" %}}) 
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +180,7 @@ Jasper Vicenti ([PDF]({{< baseurl >}}/resources/vicenti_fin_pap)), Appendix ([PD
 Sumudu W. Watugala, "Travel Advisor for Sri Lanka"
 {{< tdclose >}}
 {{< tdopen >}}
-Sumudu W. Watugala ([PDF]({{< baseurl >}}/resources/watugala_fin_rep))
+Sumudu W. Watugala ({{% resource_link 1c31f9ed-ac87-a1fb-f05a-c61a83fc2c18 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +189,7 @@ Sumudu W. Watugala ([PDF]({{< baseurl >}}/resources/watugala_fin_rep))
 Victor L. Williamson, "What to do With a Patient Who Has Chest Pain? CP"
 {{< tdclose >}}
 {{< tdopen >}}
-Victor L. Williamson ([PDF]({{< baseurl >}}/resources/william_cp_ches))
+Victor L. Williamson ({{% resource_link 38aa1699-c26e-5497-5828-f6e2ca45d4c6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

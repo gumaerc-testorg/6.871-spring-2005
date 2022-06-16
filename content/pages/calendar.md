@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: Calendar provides information on topics and key dates (reading summarys,
+  problem sets, project reports) of the term.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: d9f322ae-cea5-bdb0-5668-b2856d0fa841
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
