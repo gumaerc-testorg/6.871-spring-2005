@@ -6,6 +6,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/8bc6ec4e9b
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 A project to construct a Knowledge-Based System for the playing of No Limits Texas Hold-?Em, a popular variant of Poker.
-

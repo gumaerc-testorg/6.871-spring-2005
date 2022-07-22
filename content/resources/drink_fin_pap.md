@@ -6,6 +6,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/113e010a4e
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 A project to build an advisor expert system that will help women get free drinks at bars.
-

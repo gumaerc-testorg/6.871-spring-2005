@@ -7,6 +7,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/0fbd550673
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes topics: An example problem, solution strategy, a backtracking problem, dependency maintenance, basic operations of a TMS, and constraint directed scheduling.
-

@@ -8,6 +8,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/4f6a557a91
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes topics: A problem with Mycin, brief review of history of uncertainty in AI, Bayes theorem, some tractable Bayesian situations, Bayes nets, decision theory and rational choice, and a recurring theme: battling combinatorics through model assumptions.
-

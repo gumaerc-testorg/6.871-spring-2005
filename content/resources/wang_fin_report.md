@@ -5,6 +5,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/ab316c0c90
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection

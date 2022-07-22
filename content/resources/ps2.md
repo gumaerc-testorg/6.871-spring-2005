@@ -6,6 +6,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/4ddc74a5d8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource is a problem set to explore the behavior of a rule-based system in many ways and to get familiar with Joshua.
-

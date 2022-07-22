@@ -7,6 +7,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/6ce5adac39
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 2 problems based on reading assignment on "The logic of frames", "Semantic nets are in the eye of the beholder", "What is a Knowledge Representation?"
-

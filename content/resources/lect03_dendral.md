@@ -6,6 +6,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/b57c52efa1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes topics: MACSYMA: symbolic mathematics, symbolic mathematics: AI approaches, SAINT: symbolic automatic integrator.
-

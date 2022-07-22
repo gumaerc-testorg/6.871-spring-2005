@@ -6,6 +6,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/1c31f9edac
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 A project which helps people traveling to Sri Lanka plan their trips according to their interests, concerns, and expectations from the trip.
-

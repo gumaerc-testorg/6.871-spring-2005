@@ -7,6 +7,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/ec48b59a27
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 A project which encapsulates knowledge about food and wine pairings, and uses additional kinds of knowledge to narrow down food options and make an educated wine recommendation.
-

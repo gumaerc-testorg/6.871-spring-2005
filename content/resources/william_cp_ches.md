@@ -7,6 +7,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/38aa1699c2
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 A project namely "CP" which is a rule-based system that helps a doctor determine what actions should be taken for a patient who comes to his office complaining of chest pain.
-

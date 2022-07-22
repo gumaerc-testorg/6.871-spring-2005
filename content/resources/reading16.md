@@ -9,6 +9,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/193a64bd92
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains 3 problems on concept learning and heuristic classification in weaktheory domains, case-based reasoning system for portfolio management, a medical reasoning program that improves with experience, applying case-based reasoning to manufacturing, case-based reasoning: a research paradigm, and a tutorial introduction to case-based reasoning.
-

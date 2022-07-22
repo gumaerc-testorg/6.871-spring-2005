@@ -7,6 +7,7 @@ file: /courses/6-871-knowledge-based-applications-systems-spring-2005/6dccb18e39
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes topics: Explaination of the mindset of knowledge engineering, change of mind about what a program is, change of mind about how to create them, change of mind about what to use a computer for.
-
