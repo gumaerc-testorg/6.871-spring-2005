@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: Lecture notes provides information on lecture topics along with the PDFs.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: cc9f1741-d172-acc1-e218-0e9b80e3fb4f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -28,7 +36,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Course Organization; Spirit of the Undertaking ([PDF]({{< baseurl >}}/resources/lect01_intro))
+Course Organization; Spirit of the Undertaking ({{% resource_link 2dfcfa88-dc81-856d-86d2-1e0d67017e94 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -37,7 +45,7 @@ Course Organization; Spirit of the Undertaking ([PDF]({{< baseurl >}}/resources/
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Tell it What to Know; Search ([PDF]({{< baseurl >}}/resources/lect02_know))
+Tell it What to Know; Search ({{% resource_link 6dccb18e-39e0-eb7b-43ec-990caa3fc294 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +60,7 @@ Tell it What to Know; Search ([PDF]({{< baseurl >}}/resources/lect02_know))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Origins of KBS: MACSYMA and DENDRAL ([PDF]({{< baseurl >}}/resources/lect03_dendral))
+Origins of KBS: MACSYMA and DENDRAL ({{% resource_link b57c52ef-a139-253d-8cd1-27ccb7853001 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +69,7 @@ Origins of KBS: MACSYMA and DENDRAL ([PDF]({{< baseurl >}}/resources/lect03_dend
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Application Analysis Case Study: Case Introduction ([PDF]({{< baseurl >}}/resources/lect04_case))
+Application Analysis Case Study: Case Introduction ({{% resource_link e0699872-49cc-fe72-4e2f-e948fc63fe5e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +87,7 @@ Application Analysis Case Study: Class Discussion
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Rule-Based Systems ([PDF]({{< baseurl >}}/resources/lect06_rules))
+Rule-Based Systems ({{% resource_link bd082307-d538-352f-0acb-d018cc5e8c6e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +102,7 @@ Rule-Based Systems ([PDF]({{< baseurl >}}/resources/lect06_rules))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Semantic Nets ([PDF]({{< baseurl >}}/resources/lect07_semcnets))
+Semantic Nets ({{% resource_link a137af07-4cd6-1990-a432-162903d33a4a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +111,7 @@ Semantic Nets ([PDF]({{< baseurl >}}/resources/lect07_semcnets))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Logic ([PDF]({{< baseurl >}}/resources/lect08_logic))
+Logic ({{% resource_link 233e2e80-2178-7d40-f9c4-e73e1f06283d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +120,7 @@ Logic ([PDF]({{< baseurl >}}/resources/lect08_logic))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Frame-Based Systems ([PDF]({{< baseurl >}}/resources/lect09_frames))
+Frame-Based Systems ({{% resource_link 91db250d-73af-ad50-3aed-fea467121929 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +129,7 @@ Frame-Based Systems ([PDF]({{< baseurl >}}/resources/lect09_frames))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Uncertain Reasoning, Models of Rationality ([PDF]({{< baseurl >}}/resources/lect10_uncert))
+Uncertain Reasoning, Models of Rationality ({{% resource_link 4f6a557a-9197-2782-f615-e9c8ed797acc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +147,7 @@ Blackboards
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Pragmatic Issues in Knowledge Acquisition ([PDF]({{< baseurl >}}/resources/lect12_pragmatic))
+Pragmatic Issues in Knowledge Acquisition ({{% resource_link 0cda8692-aa14-e884-d805-61192515a258 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +156,7 @@ Pragmatic Issues in Knowledge Acquisition ([PDF]({{< baseurl >}}/resources/lect
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Summary of Knowledge Representation ([PDF]({{< baseurl >}}/resources/lect13_whatkr))
+Summary of Knowledge Representation ({{% resource_link 121ee967-eebd-1e43-453d-13e7ab4c1422 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +171,7 @@ Summary of Knowledge Representation ([PDF]({{< baseurl >}}/resources/lect13_what
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Causal Reasoning ([PDF]({{< baseurl >}}/resources/lect14_causal))
+Causal Reasoning ({{% resource_link 4a5b7bec-8adc-4212-7fec-66b2807fcccf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +180,7 @@ Causal Reasoning ([PDF]({{< baseurl >}}/resources/lect14_causal))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Model-Based Reasoning ([PDF]({{< baseurl >}}/resources/lect15_mbr))
+Model-Based Reasoning ({{% resource_link 598a9201-59df-305e-1d47-3a2ef5f42efa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +198,7 @@ Case-Based Reasoning
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Reasoning with Constraints ([PDF]({{< baseurl >}}/resources/lect17_constrain))
+Reasoning with Constraints ({{% resource_link 0fbd5506-73bd-649e-8ae5-33d650d00276 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +249,7 @@ Learning
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Ontologies and Data Mining ([PDF]({{< baseurl >}}/resources/lect22_ontolog))
+Ontologies and Data Mining ({{% resource_link f03e62fe-c45a-216c-14c6-ae1be88b673c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
