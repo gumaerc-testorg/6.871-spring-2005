@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains a complete reference manual for Joshua.
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/0060b0387118dcf889f73f033b069d42_joshua_reference.pdf
+file_size: 1823849
 file_type: application/pdf
 learning_resource_types:
 - Assignments

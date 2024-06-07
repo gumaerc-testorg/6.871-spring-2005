@@ -2,6 +2,7 @@
 content_type: resource
 description: An appendix to the project of "A Wine Pairing Recommendation System".
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/d2c885da5dfcb26781fb95417723de8d_jvanmardian_apd.pdf
+file_size: 209979
 file_type: application/pdf
 learning_resource_types:
 - Projects

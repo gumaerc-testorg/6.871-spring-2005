@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/2d64a40b2a579e11ac84020940331d14_tadros_fin_pap.pdf
+file_size: 234948
 file_type: application/pdf
 learning_resource_types:
 - Projects

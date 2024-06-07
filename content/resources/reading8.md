@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains 2 problems on prolog.
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/3f7c9a3359942ca8ff91862a8e8c5bfa_reading8.pdf
+file_size: 11961
 file_type: application/pdf
 learning_resource_types:
 - Assignments

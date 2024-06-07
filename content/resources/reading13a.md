@@ -4,6 +4,7 @@ description: This resource contains 2 problems based on reading assignment on "T
   logic of frames", "Semantic nets are in the eye of the beholder", "What is a Knowledge
   Representation?"
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/6ce5adac39a5e4ff1e03361e24e96266_reading13a.pdf
+file_size: 75514
 file_type: application/pdf
 learning_resource_types:
 - Assignments
