@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is a problem set to explore the behavior of a rule-based
   system in many ways and to get familiar with Joshua.
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/4ddc74a5d8415b6f17b5c292e510fda0_ps2.pdf
+file_size: 240285
 file_type: application/pdf
 learning_resource_types:
 - Assignments

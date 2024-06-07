@@ -4,6 +4,7 @@ description: A project on building a knowledge base system consists of a collect
   of rules encoding knowledge concerning film preference as well as a small database
   of film information
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/0e73a3480431caf832788c014d962597_grah_fin_prj_rep.pdf
+file_size: 125281
 file_type: application/pdf
 learning_resource_types:
 - Projects

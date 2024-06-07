@@ -4,6 +4,7 @@ description: 'This resource includes topics: An example problem, solution strate
   a backtracking problem, dependency maintenance, basic operations of a TMS, and constraint
   directed scheduling.'
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/0fbd550673bd649e8ae533d650d00276_lect17_constrain.pdf
+file_size: 351133
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

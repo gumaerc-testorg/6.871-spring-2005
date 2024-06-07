@@ -4,6 +4,7 @@ description: A project which describes sEElect, a rule-based expert system for r
   classes within MIT?s course VI, the department of Electrical Engineering and Computer
   Science (EECS).
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/0306dff5cc7320ff7f44e016e5cb067f_haldarfin_report.pdf
+file_size: 279423
 file_type: application/pdf
 learning_resource_types:
 - Projects
