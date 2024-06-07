@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains 2 problems on Quillian's thought of system as
   an electronic dictionary.
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/4ff47b473a16d896790cd890be034d85_written3.pdf
+file_size: 10075
 file_type: application/pdf
 learning_resource_types:
 - Assignments

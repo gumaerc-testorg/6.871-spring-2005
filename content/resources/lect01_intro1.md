@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/45d32f86dec5685e9c9fcbf8b61d804b_lect01_intro1.pdf
+file_size: 165481
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

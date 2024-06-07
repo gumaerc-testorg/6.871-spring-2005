@@ -3,6 +3,7 @@ content_type: resource
 description: A project using the inverse laplace transformer (ILT) to design and implement
   a knowledge-based application system capable of being proficient in its domain.
 file: /courses/6-871-knowledge-based-applications-systems-spring-2005/72fb8081b0eaadc1b85cad722f5685b0_ashwindeshpa_ilt.pdf
+file_size: 232659
 file_type: application/pdf
 learning_resource_types:
 - Projects
