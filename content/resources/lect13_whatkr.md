@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource includes topics: What is a representation?, what should
   a representation be? what consequences does this view have for research and practice?'
-file: /courses/6-871-knowledge-based-applications-systems-spring-2005/121ee967eebd1e43453d13e7ab4c1422_lect13_whatkr.pdf
+file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/121ee967eebd1e43453d13e7ab4c1422_lect13_whatkr.pdf
 file_size: 180208
 file_type: application/pdf
 learning_resource_types:

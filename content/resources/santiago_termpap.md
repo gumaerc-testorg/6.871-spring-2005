@@ -2,7 +2,7 @@
 content_type: resource
 description: A project to recommend its user a wine that pairs up appropriately to
   the meal that will be consumed.
-file: /courses/6-871-knowledge-based-applications-systems-spring-2005/0c3c36346f30faf730db1508baa669eb_santiago_termpap.pdf
+file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/0c3c36346f30faf730db1508baa669eb_santiago_termpap.pdf
 file_size: 281554
 file_type: application/pdf
 learning_resource_types:

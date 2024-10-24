@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of instructions for the students for their projects.
-file: /courses/6-871-knowledge-based-applications-systems-spring-2005/c21693d60adde11972ddd9b4740afa47_proj_report2.pdf
+file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/c21693d60adde11972ddd9b4740afa47_proj_report2.pdf
 file_size: 23372
 file_type: application/pdf
 learning_resource_types:

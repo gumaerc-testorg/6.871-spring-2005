@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains problems based on reading assignment on smartwave:
   the wave-soldering expert system.'
-file: /courses/6-871-knowledge-based-applications-systems-spring-2005/b207620634bf420599811e655728f192_written1.pdf
+file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/b207620634bf420599811e655728f192_written1.pdf
 file_size: 10784
 file_type: application/pdf
 learning_resource_types:
