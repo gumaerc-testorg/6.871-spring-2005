@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource includes topics: Introduction and explanation to MYCIN.'
-file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/bd082307d538352f0acbd018cc5e8c6e_lect06_rules.pdf
+file: /courses/6-871-knowledge-based-applications-systems-spring-2005/bd082307d538352f0acbd018cc5e8c6e_lect06_rules.pdf
 file_size: 208739
 file_type: application/pdf
 learning_resource_types:

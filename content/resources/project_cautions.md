@@ -2,7 +2,7 @@
 content_type: resource
 description: A list of things which should be taken care of while doing the project
   work.
-file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/1da224b956eef1c8be8b3ddc325cd7a2_project_cautions.pdf
+file: /courses/6-871-knowledge-based-applications-systems-spring-2005/1da224b956eef1c8be8b3ddc325cd7a2_project_cautions.pdf
 file_size: 75477
 file_type: application/pdf
 learning_resource_types:

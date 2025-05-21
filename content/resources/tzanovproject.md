@@ -2,7 +2,7 @@
 content_type: resource
 description: A project that takes the description of an algorithmic problem and construct
   a solution (algorithm) for it.
-file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/f3474e238672c848e8cd9259caeddf6d_tzanovproject.pdf
+file: /courses/6-871-knowledge-based-applications-systems-spring-2005/f3474e238672c848e8cd9259caeddf6d_tzanovproject.pdf
 file_size: 157000
 file_type: application/pdf
 learning_resource_types:
