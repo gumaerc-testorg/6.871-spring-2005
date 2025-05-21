@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: An appendix for the project "A Wine and Food Pairing Recommendation System".
-file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/d40c151e0eeb41c9b45f3a9459f9b6b3_santiag_kno_base.pdf
+file: /courses/6-871-knowledge-based-applications-systems-spring-2005/d40c151e0eeb41c9b45f3a9459f9b6b3_santiag_kno_base.pdf
 file_size: 130316
 file_type: application/pdf
 learning_resource_types:

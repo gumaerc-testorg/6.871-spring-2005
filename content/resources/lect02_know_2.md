@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/b27bad92cad0ec9d99f306031d608ab8_lect02_know_2.pdf
+file: /courses/6-871-knowledge-based-applications-systems-spring-2005/b27bad92cad0ec9d99f306031d608ab8_lect02_know_2.pdf
 file_size: 2079174
 file_type: application/pdf
 learning_resource_types:
