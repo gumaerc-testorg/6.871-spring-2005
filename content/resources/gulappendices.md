@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/f655ea8bb89942f7319d41a203f1fcee_gulappendices.pdf
+file: /courses/6-871-knowledge-based-applications-systems-spring-2005/f655ea8bb89942f7319d41a203f1fcee_gulappendices.pdf
 file_size: 335532
 file_type: application/pdf
 learning_resource_types:

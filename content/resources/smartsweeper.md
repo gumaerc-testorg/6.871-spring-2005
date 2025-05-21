@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 1.
-file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/306f6701f83594c23681f2b3e08c5f56_smartsweeper.jar
+file: /courses/6-871-knowledge-based-applications-systems-spring-2005/306f6701f83594c23681f2b3e08c5f56_smartsweeper.jar
 file_size: 13158
 file_type: application/zip
 learning_resource_types:

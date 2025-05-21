@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/bbe7a93a8a661ead48cca443b5ef7479_project_proposal.pdf
+file: /courses/6-871-knowledge-based-applications-systems-spring-2005/bbe7a93a8a661ead48cca443b5ef7479_project_proposal.pdf
 file_size: 37737
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: A project on a system which helps constitution frames decide on and structure
   certain aspects of constitutions.
-file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/8ef2e8517be997a3f3f761ad832cb47c_chandrase_tempap.pdf
+file: /courses/6-871-knowledge-based-applications-systems-spring-2005/8ef2e8517be997a3f3f761ad832cb47c_chandrase_tempap.pdf
 file_size: 567848
 file_type: application/pdf
 learning_resource_types:
