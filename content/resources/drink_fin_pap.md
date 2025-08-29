@@ -2,7 +2,7 @@
 content_type: resource
 description: A project to build an advisor expert system that will help women get
   free drinks at bars.
-file: /courses/6-871-knowledge-based-applications-systems-spring-2005/113e010a4e938c185d360e0598a73e83_drink_fin_pap.pdf
+file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/113e010a4e938c185d360e0598a73e83_drink_fin_pap.pdf
 file_size: 263966
 file_type: application/pdf
 learning_resource_types:
