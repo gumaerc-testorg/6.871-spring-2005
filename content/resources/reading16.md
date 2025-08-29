@@ -5,7 +5,7 @@ description: 'This resource contains 3 problems on concept learning and heuristi
   management, a medical reasoning program that improves with experience, applying
   case-based reasoning to manufacturing, case-based reasoning: a research paradigm,
   and a tutorial introduction to case-based reasoning.'
-file: /courses/6-871-knowledge-based-applications-systems-spring-2005/193a64bd924e53153afb33706b451cd3_reading16.pdf
+file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/193a64bd924e53153afb33706b451cd3_reading16.pdf
 file_size: 75319
 file_type: application/pdf
 learning_resource_types:

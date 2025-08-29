@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a user's guide to work on Joshua.
-file: /courses/6-871-knowledge-based-applications-systems-spring-2005/dedf51665923e3663244c989007134fd_joshua_user_guid.pdf
+file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/dedf51665923e3663244c989007134fd_joshua_user_guid.pdf
 file_size: 1837940
 file_type: application/pdf
 learning_resource_types:
