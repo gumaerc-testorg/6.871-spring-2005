@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for problem set 1.
-file: /courses/6-871-knowledge-based-applications-systems-spring-2005/f200081736e139ea4a9d0be79eac933a_jscheme.jar
+file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/f200081736e139ea4a9d0be79eac933a_jscheme.jar
 file_size: 615289
 file_type: application/zip
 learning_resource_types:

@@ -3,7 +3,7 @@ content_type: resource
 description: A project on a knowledge-based expert system that helps its user decide
   whether to dance with a girl at a party, and if so how to manipulate his dance moves
   such that he gets to dance with her the way he wants to without making her uncomfortable
-file: /courses/6-871-knowledge-based-applications-systems-spring-2005/a177e1e9a7150b9791316bb19b292557_terrero_term_pap.pdf
+file: /ol-ocw-studio-app/courses/6-871-knowledge-based-applications-systems-spring-2005/a177e1e9a7150b9791316bb19b292557_terrero_term_pap.pdf
 file_size: 275009
 file_type: application/pdf
 learning_resource_types:
