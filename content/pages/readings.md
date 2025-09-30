@@ -163,7 +163,7 @@ Semantic Nets
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262130448) Quillian, M. Ross. "Semantic Memory." In _Semantic Information Processing_. Edited by M. Minsky. Cambridge, MA: MIT Press, 1969, pp. 227-270.
+{{% resource_link "87d469ef-6564-4e20-8075-da771eef40ed" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Quillian, M. Ross. "Semantic Memory." In _Semantic Information Processing_. Edited by M. Minsky. Cambridge, MA: MIT Press, 1969, pp. 227-270.
 
 MacGregor, R. "The Evolving Technology of Classification-based Knowledge Representation Systems." In _Principles of Semantic Networks._ Edited by J. Sowa. San Francisco, CA: Morgan Kaufmann, 1991, pp. 385-400. ISBN: 1558600884.
 
@@ -349,7 +349,7 @@ Case-Based Reasoning
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262621106) Kolodner, J. L., and D. B. Leake. "A Tutorial Introduction to Case-Based Reasoning." In _Case-Based Reasoning: Experiences, Lessons, and Future Directions_. Edited by D. B. Leake. Cambridge: MIT Press, 1996, pp. 31-65. ISBN: 9780262621106.
+{{% resource_link "46b652a3-4ad2-4d7e-bc06-e25740fe1405" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kolodner, J. L., and D. B. Leake. "A Tutorial Introduction to Case-Based Reasoning." In _Case-Based Reasoning: Experiences, Lessons, and Future Directions_. Edited by D. B. Leake. Cambridge: MIT Press, 1996, pp. 31-65. ISBN: 9780262621106.
 
 Slade, S. "Case-Based Reasoning: A Research Paradigm." _AI Magazine_ (1991): 42-55.
 
